@@ -24,17 +24,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Parth's github stats" /></a> | <a href="https://github.com/parth-patel010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel010&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
-
-<a href="https://github.com/parth-patel010/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parth-patel010&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/parth-patel010/parth-patel010.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parth-patel010&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
 <br />
 
 <a href="https://www.linkedin.com/in/parth-patel010/">
