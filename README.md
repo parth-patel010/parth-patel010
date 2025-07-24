@@ -1,5 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Parth. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<center><h1>Hello, I'm Parth. I do open source</h1></center>
 <br />
 
 I'm a self-taught passionate developer from India 🇮🇳
