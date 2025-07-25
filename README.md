@@ -21,7 +21,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 <code><img height="20" alt="Python" src="https://freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png"></code>   
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Parth's github stats" /></a> | <a href="https://github.com/parth-patel010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel010&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/parth-patel010"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Parth's github stats" /></a> | <a href="https://github.com/parth-patel010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel010&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
