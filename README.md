@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Parth Patel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=new92&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="parth-patel010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-patel010&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="parth-patel010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-patel010" alt="parth-patel010" /></a> </p>
 
-- 💻 Latest project -> **<a href="https://github.com/parth-patel010/php/tree/main/Gitspy">Gitspy</a>**
 
 - 🔭 I’m currently working on **my studies**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **new92github@gmail.com**
+- 📫 How to reach me **patelstartup@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
