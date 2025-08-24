@@ -42,7 +42,9 @@
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onedark&no-frame=true&dummy=1" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 
 
