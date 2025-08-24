@@ -101,7 +101,16 @@
 ## 🐍 **GitHub Snake Animation**
 
 <div align="center">
+  
+  <!-- Primary snake animation -->
   <img src="https://github.com/parth-patel010/parth-patel010/blob/output/github-snake.svg" alt="github-snake" />
+  
+  <!-- Alternative snake animation that's more reliable -->
+  <img src="https://raw.githubusercontent.com/parth-patel010/parth-patel010/output/github-snake.svg" alt="github-snake-alternative" />
+  
+  <!-- Fallback text if images don't load -->
+  <p><em>🐍 My contribution activity visualized as a snake eating my commits! 🚀</em></p>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -111,7 +120,19 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
+  
+  ### **GitHub Profile Stats**
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth-patel010&theme=dracula" alt="Repos per language" />
+  
+  ### **Most Used Languages**
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth-patel010&theme=dracula" alt="Most commit language" />
+  
+  ### **GitHub Trophies**
   <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  
+  <!-- Alternative trophy display -->
+  <p><em>🏆 Earning badges and recognition for my contributions! 🎯</em></p>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
