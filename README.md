@@ -71,16 +71,16 @@
 <div align="center">
   
   ### **Profile Overview**
-  <img src="https://kasroudra-stats-card.onrender.com/user?user=parth-patel010&theme=dracula&layout=compact" alt="stats-card"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   ### **Language Distribution**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-patel010&show_icons=true&layout=pie&theme=dracula" alt="top-langs" />
-  
-  ### **Contribution Stats**
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&theme=synthwave" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-patel010&show_icons=true&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   
   ### **Streak Stats**
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel010&theme=dracula" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel010&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  ### **Profile Details Card**
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-patel010&theme=dracula" alt="Profile Details" />
   
 </div>
 
@@ -91,7 +91,7 @@
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=parth-patel010&theme=react-dark&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth-patel010&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -100,11 +100,9 @@
 
 ## 🐍 **GitHub Snake Animation**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth-patel010/parth-patel010/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth-patel010/parth-patel010/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/parth-patel010/parth-patel010/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github.com/parth-patel010/parth-patel010/blob/output/github-snake.svg" alt="github-snake" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -113,7 +111,7 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
