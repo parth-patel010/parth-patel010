@@ -71,10 +71,10 @@
 <div align="center">
   
   ### **Profile Overview**
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=parth-patel010" alt="GitHub Stats" />
   
   ### **Language Distribution**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-patel010&show_icons=true&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=parth-patel010" alt="Github_War"/>
   
   ### **Streak Stats**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel010&theme=dracula&hide_border=true" alt="GitHub Streak" />
