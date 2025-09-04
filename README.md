@@ -76,7 +76,7 @@
 </p>
   
   ### **Language Distribution**
- <img src="https://github-readme-stats.vercel.app/api?username=schrodingercats-parth-patel010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" height="180"/>
   
   ### **Streak Stats**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel010&theme=dracula&hide_border=true" alt="GitHub Streak" />
