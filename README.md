@@ -71,7 +71,9 @@
 <div align="center">
   
   ### **Profile Overview**
-  <img src="https://stats.dooboo.io/api/github-trophies?login=parth-patel010" alt="GitHub Stats" />
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onestar&no-frame=true&row=1&margin-w=15" />
+</p>
   
   ### **Language Distribution**
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=parth-patel010" alt="Github_War"/>
