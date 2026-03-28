@@ -1,33 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+My+Universe+%F0%9F%8C%9F;I'm+Parth+Patel+%F0%9F%91%8B;Student+%7C+Developer+%7C+Innovator;Let's+Create+Something+Amazing!" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ---
 
 ## 🚀 **About Me**
 
-<div align="center">
-  
-  | 🎯 **Mission** | 🌟 **Vision** | 🚀 **Goal** |
-  |----------------|---------------|--------------|
-  | Build innovative solutions that make a difference | Push the boundaries of what's possible with technology | Become a leading force in AI/ML and robotics |
-  
-</div>
 
-- 🔥 **Currently:** Mastering C++ and diving deep into advanced programming concepts
+- 🔥 **Currently:** Mastering Machine Learning and diving deep into advanced programming concepts
 - 🌱 **Learning:** Advanced algorithms, data structures, and system design
 - 🛠️ **Building:** Cutting-edge projects that solve real-world problems
 - 🎯 **Passionate about:** AI/ML, robotics, computer vision, and emerging technologies
 - 📍 **Location:** India 🇮🇳
 - 📧 **Contact:** [patelstartup@gmail.com](mailto:patelstartup@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -62,7 +44,6 @@
   <img src="https://skillicons.dev/icons?i=arduino,blender" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -70,14 +51,7 @@
 
 <div align="center">
   
-  ### **Profile Overview**
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth-patel010&theme=onestar&no-frame=true&row=1&margin-w=15" />
-</p>
-  
-  ### **Language Distribution**
- <img src="https://github-readme-stats.vercel.app/api?username=parth-patel010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" height="180"/>
-  
+ 
   ### **Streak Stats**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-patel010&theme=dracula&hide_border=true" alt="GitHub Streak" />
   
@@ -86,19 +60,9 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth-patel010&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
 
 ## 🏆 **Achievements & Recognition**
 
@@ -112,48 +76,12 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🌟 **What Makes Me Special**
 
-<div align="center">
-  
-  | 🧠 **Problem Solver** | 💡 **Innovator** | 🚀 **Fast Learner** |
-  |----------------------|------------------|-------------------|
-  | I approach complex problems with creativity and logic | Always exploring new technologies and approaches | Quick to adapt and master new skills |
-  
-  | 🔥 **Passionate** | 🤝 **Team Player** | 📚 **Knowledge Seeker** |
-  |------------------|-------------------|---------------------|
-  | Deeply passionate about technology and innovation | Great at collaborating and sharing knowledge | Constantly expanding my knowledge base |
-  
-</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
----
-
-## 🎯 **Current Focus Areas**
-
-- **🚀 Advanced C++ Programming**
-  - Mastering modern C++ features (C++17/20)
-  - Understanding memory management and optimization
-  - Learning advanced data structures and algorithms
-
-- **🤖 AI/ML & Computer Vision**
-  - Deep learning with PyTorch
-  - Computer vision with OpenCV
-  - Data analysis with Pandas and NumPy
-
-- **🔧 System Design & Architecture**
-  - Learning scalable system design principles
-  - Understanding distributed systems
-  - Exploring cloud technologies
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
----
 
 ## 📫 **Let's Connect & Collaborate**
 
@@ -165,19 +93,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
----
-
-## 🎉 **Fun Facts About Me**
-
-- 🎮 **Gaming:** Love strategy and puzzle games
-- 🎵 **Music:** Electronic and classical music enthusiast
-- 🍕 **Food:** Pizza is life! 🍕
-- 🌍 **Travel:** Dream to visit tech hubs around the world
-- 📚 **Reading:** Tech blogs, sci-fi novels, and programming books
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -191,7 +107,6 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
