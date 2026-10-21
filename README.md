@@ -70,23 +70,6 @@ I build AI, SaaS and full-stack apps, and I'm currently going deep on Machine Le
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Craftora**](https://github.com/parth-patel010/Craftora.app) | A website builder | JavaScript |
-| [**Craftora C1 Model**](https://github.com/parth-patel010/C1-Model) | Craftora C1 AI model | HTML |
-| [**Create.ai**](https://github.com/parth-patel010/Create.ai) | An AI that can generate websites | TypeScript |
-| [**MindbloomAI**](https://github.com/parth-patel010/MindbloomAI) | An AI assistant that can help you | TypeScript |
-| [**XingMo**](https://github.com/parth-patel010/XingMo) | 形模 — "Shape Model" | Python |
-| [**PatelMart**](https://github.com/parth-patel010/PatelMart) | A JioMart clone | TypeScript |
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="It works on my machine" />
-</div>
-
----
-
 ## 🤝 Open-Source Contributions
 
 - 🧪 **[kubeflow/pipelines](https://github.com/kubeflow/pipelines)** — ML pipelines on Kubernetes (e.g. [SDK fix PR #14983](https://github.com/kubeflow/pipelines/pull/14983))
@@ -104,16 +87,6 @@ I build AI, SaaS and full-stack apps, and I'm currently going deep on Machine Le
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel010&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=parth-patel010&theme=dracula&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
-## 😂 Dev Humor Break
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Debugging in progress" />
-  <br/><br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder" alt="Random dev joke" />
 </div>
 
 ---
